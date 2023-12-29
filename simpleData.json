@@ -1,0 +1,79 @@
+[
+  {
+    "RegistrationNumber": "ES9873465",
+    "Make": "BMW",
+    "Model": "2015",
+    "DailyRentalPrice": 85.0,
+    "Reservations": [
+      {
+        "Schedule": {
+          "PickupDate": "2023-12-25T00:00:00",
+          "DropoffDate": "2024-01-02T00:00:00",
+          "TotalPrice": 680.0
+        },
+        "Driver": {
+          "Name": null,
+          "Surname": null,
+          "DateOfBirth": "0001-01-01T00:00:00",
+          "LicenseNumber": null
+        }
+      }
+    ]
+  },
+  {
+    "RegistrationNumber": "XX345678",
+    "Make": "ToyotaCamry",
+    "Model": "2015",
+    "DailyRentalPrice": 95.0,
+    "Reservations": []
+  },
+  {
+    "RegistrationNumber": "ES3456789",
+    "Make": "BENZ",
+    "Model": "2023",
+    "DailyRentalPrice": 95.0,
+    "Reservations": []
+  },
+  {
+    "RegistrationNumber": "ESK54234",
+    "Make": "BMW",
+    "Model": "2013",
+    "DailyRentalPrice": 95,
+    "Reservations": []
+  },
+  {
+    "RegistrationNumber": "ESDR857634",
+    "Make": "Toyota",
+    "Model": "2020",
+    "DailyRentalPrice": 120,
+    "Reservations": []
+  },
+  {
+    "RegistrationNumber": "ESA4326",
+    "Make": "LABO",
+    "Model": "2022",
+    "DailyRentalPrice": 85,
+    "Reservations": []
+  },
+  {
+    "RegistrationNumber": "SETR23456244",
+    "Make": "CVIC",
+    "Model": "2022",
+    "DailyRentalPrice": 65,
+    "Reservations": [
+      {
+        "Schedule": {
+          "PickupDate": "2024-03-02T00:00:00",
+          "DropoffDate": "2024-05-04T00:00:00",
+          "TotalPrice": 2210
+        },
+        "Driver": {
+          "Name": "",
+          "Surname": "",
+          "DateOfBirth": "0001-01-01T00:00:00",
+          "LicenseNumber": ""
+        }
+      }
+    ]
+  }
+]

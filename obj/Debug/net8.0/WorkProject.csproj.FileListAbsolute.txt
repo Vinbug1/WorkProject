@@ -1,0 +1,17 @@
+/Users/chigozie/CSProjects/WorkProject/bin/Debug/net8.0/WorkProject
+/Users/chigozie/CSProjects/WorkProject/bin/Debug/net8.0/WorkProject.deps.json
+/Users/chigozie/CSProjects/WorkProject/bin/Debug/net8.0/WorkProject.runtimeconfig.json
+/Users/chigozie/CSProjects/WorkProject/bin/Debug/net8.0/WorkProject.dll
+/Users/chigozie/CSProjects/WorkProject/bin/Debug/net8.0/WorkProject.pdb
+/Users/chigozie/CSProjects/WorkProject/obj/Debug/net8.0/WorkProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chigozie/CSProjects/WorkProject/obj/Debug/net8.0/WorkProject.AssemblyInfoInputs.cache
+/Users/chigozie/CSProjects/WorkProject/obj/Debug/net8.0/WorkProject.AssemblyInfo.cs
+/Users/chigozie/CSProjects/WorkProject/obj/Debug/net8.0/WorkProject.csproj.CoreCompileInputs.cache
+/Users/chigozie/CSProjects/WorkProject/obj/Debug/net8.0/WorkProject.dll
+/Users/chigozie/CSProjects/WorkProject/obj/Debug/net8.0/refint/WorkProject.dll
+/Users/chigozie/CSProjects/WorkProject/obj/Debug/net8.0/WorkProject.pdb
+/Users/chigozie/CSProjects/WorkProject/obj/Debug/net8.0/WorkProject.genruntimeconfig.cache
+/Users/chigozie/CSProjects/WorkProject/obj/Debug/net8.0/ref/WorkProject.dll
+/Users/chigozie/CSProjects/WorkProject/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/chigozie/CSProjects/WorkProject/obj/Debug/net8.0/WorkProject.csproj.AssemblyReference.cache
+/Users/chigozie/CSProjects/WorkProject/obj/Debug/net8.0/WorkProject.csproj.CopyComplete
